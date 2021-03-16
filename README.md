@@ -1,0 +1,2 @@
+# note-spesa
+Esercitazione
